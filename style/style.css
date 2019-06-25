@@ -1,0 +1,36 @@
+.search-bar {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .search-bar input {
+    width: 75%;
+  }
+  
+  .movie-item img {
+    max-width: 64px;
+  }
+  
+  .movie-detail .details {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+
+  .movie-facts {
+      font: 12px;
+  }
+
+  .bold-type {
+      font-weight: bold;
+  }
+  
+  .list-group-item {
+    cursor: pointer;
+  }
+  
+  .list-group-item:hover {
+    background-color: #eee;
+  }
+  
